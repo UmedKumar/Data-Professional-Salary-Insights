@@ -1,1 +1,1 @@
-# Data-Professional-Salary-Trend-Analysis
+# Data-Professional-Salary-Insights
