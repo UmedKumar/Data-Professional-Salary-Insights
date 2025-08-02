@@ -1,7 +1,7 @@
 ### Data Source  
 [Kaggle Dataset – Latest Data Science Job Salaries](https://www.kaggle.com/datasets/saurabhbadole/latest-data-science-job-salaries-2024)
 
-# Data-Professional-Salary-Insights
+# Data-Professionals-Salary-Insights
 
 Project Objective
 This project analyzes salary patterns and growth trends for data professionals from 2020 to 2023. Roles include Data Analysts, Data Architects, Data Engineers, Data Scientists, and Machine Learning Specialists.
